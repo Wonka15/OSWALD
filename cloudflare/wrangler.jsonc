@@ -1,0 +1,10 @@
+{
+  "name": "oswald-mini-cloud",
+  "main": "src/index.js",
+  "compatibility_date": "2026-10-01",
+  "ai": { "binding": "AI" },
+  "vars": {
+    "ALLOWED_ORIGIN": "https://wonka15.github.io",
+    "AI_MODEL": "@cf/meta/llama-3.1-8b-instruct"
+  }
+}
